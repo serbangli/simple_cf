@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Content Fusion translation index: tracks source->target translation state for incremental runs. -->
+<!-- Commit this file so future runs can detect current, stale, and missing translations. -->
+<translation-index version="1">
+  <entry lang="ro-RO"><source href="../../index.ditamap" sha="ff109c8a8980ff23d3fd8c880652b3a4358ec895"/><target href="../../ro-RO/index.ditamap" sha="be566d425ef4e26c802980c5b017dd8667b14d42"/></entry>
+  <entry lang="ro-RO"><source href="../../totranslate.dita" sha="8957ed128b26b08cfd93313f773ff24dd138fe32"/><target href="../../ro-RO/totranslate.dita" sha="e4fdaef683c9e42b3e0e00193763d1c788954022"/></entry>
+</translation-index>

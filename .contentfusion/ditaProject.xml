@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project xmlns="https://www.dita-ot.org/project">
+    <context id="jLWFhAJXhuMQVYH" name="userGuide">
+        <input href="../index.ditamap"/>
+    </context>
+    <context id="KmTqRvXbNcWdYpZ" name="userGuide - RO">
+        <input href="../ro-RO/index.ditamap"/>
+        <?language ro-RO?>
+        <?translation-source {"contextId":"jLWFhAJXhuMQVYH"}?>
+    </context>
+</project>
